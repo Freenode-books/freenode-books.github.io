@@ -1,2 +1,2 @@
 # webpage
-Web page for the freenode's ##books channel
+Web page for the LiberaChat's ##books channel
